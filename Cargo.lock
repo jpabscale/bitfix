@@ -400,7 +400,7 @@ dependencies = [
 [[package]]
 name = "patternsleuth_scanner"
 version = "0.1.0"
-source = "git+https://github.com/trumank/patternsleuth#224020e0066ca417258aaea4fc8a0da4c38bbb2f"
+source = "git+https://github.com/trumank/patternsleuth?rev=35f4a49#35f4a4974d905697c3089609642db097ad048637"
 dependencies = [
  "anyhow",
  "memchr",
@@ -425,7 +425,7 @@ dependencies = [
 [[package]]
 name = "proxy_dll"
 version = "0.1.0"
-source = "git+https://github.com/trumank/proxy_dll.git#a0c0772634ee751b580f95dd96c460885c8bdf2b"
+source = "git+https://github.com/trumank/proxy_dll.git?rev=a0c0772#a0c0772634ee751b580f95dd96c460885c8bdf2b"
 dependencies = [
  "msvc_def",
  "proxy_dll_proc",
@@ -435,7 +435,7 @@ dependencies = [
 [[package]]
 name = "proxy_dll_proc"
 version = "0.1.0"
-source = "git+https://github.com/trumank/proxy_dll.git#a0c0772634ee751b580f95dd96c460885c8bdf2b"
+source = "git+https://github.com/trumank/proxy_dll.git?rev=a0c0772#a0c0772634ee751b580f95dd96c460885c8bdf2b"
 dependencies = [
  "msvc_def",
  "proc-macro2",
